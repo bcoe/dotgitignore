@@ -15,5 +15,5 @@ class DotGitignore {
 }
 
 module.exports = function (opts) {
-  new DotGitignore(opts)
+  return new DotGitignore(opts)
 }
