@@ -1,5 +1,7 @@
 # dotgitignore
 
+[![Build Status](https://travis-ci.org/bcoe/dotgitignore.svg)](https://travis-ci.org/bcoe/dotgitignore)
+
 find the closest .gitignore file, parse it, and apply ignore rules.
 
 ## Usage
