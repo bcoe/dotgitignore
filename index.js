@@ -14,10 +14,6 @@ class DotGitignore {
   }
 }
 
-let dotgitignore = null
 module.exports = function (opts) {
-  if (!dotgitignore) {
-    dotgitignore = new DotGitignore(opts)
-  }
-  return dotgitignore
+  new DotGitignore(opts)
 }
