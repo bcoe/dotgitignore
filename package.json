@@ -32,6 +32,6 @@
     "mocha": "^4.1.0",
     "nyc": "^11.4.1",
     "standard": "^10.0.3",
-    "standard-version": "^4.2.0"
+    "standard-version": "^4.3.0-candidate.1"
   }
 }

@@ -1,3 +1,5 @@
+'use strict'
+
 const findUp = require('find-up')
 const fs = require('fs')
 const ignore = require('./lib/dotignore')
