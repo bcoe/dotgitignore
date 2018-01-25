@@ -17,5 +17,9 @@ describe('dotgitignore', () => {
     it('should return false for comments', () => {
       dotgit.ignore('package.json').should.equal(false)
     })
+
+    it('should return false for matched negated lines', () => {
+      dotgit.ignore('lib').should.equal(false)
+    })
   })
 })
