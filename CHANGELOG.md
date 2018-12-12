@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="2.0.0"></a>
+# [2.0.0](https://github.com/bcoe/dotgitignore/compare/v1.0.3...v2.0.0) (2018-12-12)
+
+
+### Chores
+
+* require Node.js 6 and update dependencies ([#4](https://github.com/bcoe/dotgitignore/issues/4)) ([2df3179](https://github.com/bcoe/dotgitignore/commit/2df3179))
+
+
+### BREAKING CHANGES
+
+* Node 6 is now required
+
+
+
 <a name="1.0.3"></a>
 ## [1.0.3](https://github.com/bcoe/dotgitignore/compare/v1.0.2...v1.0.3) (2018-01-03)
 
