@@ -13,5 +13,13 @@ describe('dotgitignore', () => {
     it('should return false for files that are not ignored', () => {
       dotgit.ignore('README.md').should.equal(false)
     })
+
+    it('should return false for comments', () => {
+      dotgit.ignore('package.json').should.equal(false)
+    })
+
+    it('should return false for matched negated lines', () => {
+      dotgit.ignore('lib').should.equal(false)
+    })
   })
 })
