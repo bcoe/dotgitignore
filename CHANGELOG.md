@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="2.1.0"></a>
+# [2.1.0](https://github.com/bcoe/dotgitignore/compare/v2.0.0...v2.1.0) (2019-03-16)
+
+
+### Features
+
+* handle comments and rule negation ([#3](https://github.com/bcoe/dotgitignore/issues/3)) ([bafd1e0](https://github.com/bcoe/dotgitignore/commit/bafd1e0))
+
+
+
 <a name="2.0.0"></a>
 # [2.0.0](https://github.com/bcoe/dotgitignore/compare/v1.0.3...v2.0.0) (2018-12-12)
 

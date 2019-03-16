@@ -1,6 +1,6 @@
 {
   "name": "dotgitignore",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "find the closest .gitignore file, parse it, and apply ignore rules",
   "main": "index.js",
   "scripts": {
