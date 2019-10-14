@@ -4,7 +4,7 @@
   "description": "find the closest .gitignore file, parse it, and apply ignore rules",
   "main": "index.js",
   "scripts": {
-    "test": "nyc mocha test.js",
+    "test": "nyc mocha test/test.js",
     "posttest": "standard",
     "release": "standard-version"
   },
